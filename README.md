@@ -1,0 +1,3 @@
+- 👋 Hi, I’m mike
+- 👀 I’m interested in game
+- 🌱 I’m currently learning Machine Learning
